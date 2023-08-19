@@ -22,10 +22,10 @@ Before you can set up and use this Telegram chatbot, you will need the following
 
 The chatbot is now up and running.
 # Usage
-- Start a conversation with your Telegram bot by sending a message  
-![like this](./images/demo.jpg)
-- The chatbot will respond to your messages using the OpenAI GPT-3.5 Turbo API, generating context-aware and natural-sounding replies.
-- You can customize and extend the chatbot's functionality by modifying the code in the main.py file or adding additional logic.
+Start a conversation with your Telegram bot by sending a message 
+
+<img src="./images/demo.jpg" alt="Image Description" width="330" height="650">  
+The chatbot will respond to your messages using the OpenAI GPT-3.5 Turbo API, generating context-aware and natural-sounding replies.You can customize and extend the chatbot's functionality by modifying the code in the main.py file or adding additional logic.
 
 # Customization
 You can customize the behavior and responses of the chatbot by editing the main.py file. Here are some customization options:
